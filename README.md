@@ -13,7 +13,7 @@ terminal-diary is an easy-to-use, note-taking and diary app that lets you take n
 
 - You can also build from source: 
 ```
-git clone git@github.com:dorisjlee/terminal-diary.git
+git clone https://github.com/dorisjlee/terminal-diary.git
 cd terminal-diary
 python setup.py install
 ```
